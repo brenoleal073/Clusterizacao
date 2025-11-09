@@ -1,5 +1,8 @@
 pandas
 numpy
-matplotlib
 seaborn
+matplotlib
 scikit-learn
+scipy
+notebook
+
